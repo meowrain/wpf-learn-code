@@ -26,4 +26,11 @@ D:\git\visual_studio_project\WpfApp1\obj\Debug\Window4.g.cs
 D:\git\visual_studio_project\WpfApp1\obj\Debug\Window4.baml
 D:\git\visual_studio_project\WpfApp1\obj\Debug\Window5.g.cs
 D:\git\visual_studio_project\WpfApp1\obj\Debug\Window5.baml
-D:\git\visual_studio_project\WpfApp1\obj\Debug\WpfApp1.Resources.resources
+D:\git\visual_studio_project\WpfApp1\obj\Debug\Window6.g.cs
+D:\git\visual_studio_project\WpfApp1\obj\Debug\Window6.baml
+D:\git\visual_studio_project\WpfApp1\obj\Debug\Window7.g.cs
+D:\git\visual_studio_project\WpfApp1\obj\Debug\Window8.g.cs
+D:\git\visual_studio_project\WpfApp1\obj\Debug\Window9.g.cs
+D:\git\visual_studio_project\WpfApp1\obj\Debug\Window7.baml
+D:\git\visual_studio_project\WpfApp1\obj\Debug\Window8.baml
+D:\git\visual_studio_project\WpfApp1\obj\Debug\Window9.baml

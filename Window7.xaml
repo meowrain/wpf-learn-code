@@ -1,0 +1,28 @@
+﻿<Window x:Class="WpfApp1.Window7"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="Window7" Height="800" Width="1000">
+    <Window.Resources>
+        <Style TargetType="Button">
+            <Setter Property="Background" Value="WhiteSmoke"></Setter>
+            <Setter Property="FontSize" Value="20"></Setter>
+            <Setter Property="Margin" Value="20"></Setter>
+        </Style>
+        <Style x:Key="login" BasedOn="{StaticResource {x:Type Button}}" TargetType="Button">
+            <Setter Property="Background" Value="LightBlue"></Setter>
+            <Setter Property="FontSize" Value="24"></Setter>
+            <!-- 添加更多样式设置，或根据需要设置其他属性 -->
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <StackPanel>
+            <Button Content="登录" Style="{StaticResource login}"></Button>
+            <Button Content="退出"></Button>
+            <Button Content="注册"></Button>
+        </StackPanel>
+    </Grid>
+</Window>
